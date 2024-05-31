@@ -7,7 +7,7 @@ const initialState = {
   page: 1,
   isLoading: false,
   error: null,
-  filter: 'all',
+  filter: 'Show all',
 };
 
 const usersSlice = createSlice({
